@@ -1,6 +1,6 @@
-# IIT Bombay Pre Interview Exercise-1
+# Covid Analysis
 
-This is the Pre-Interview Exercise-1. It has 3 datasets which are visualized using Python.
+This is a covid analysis. It has 3 datasets which are visualized using Python.
 
 
 
@@ -10,7 +10,7 @@ I am Sahil Chukka. I have a major interest in Data Analytics.
 
 ## Installation
 
-Install the required libraries using the followinf command
+Install the required libraries using the following command
 
 ```bash
 pip install -r requirements.txt
