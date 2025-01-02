@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 To clone this repository, use
 ```bash
-git clone https://github.com/SahilChukka19/IITB-Assignment.git
+https://github.com/SahilChukka19/Covid-Analysis.git
 ```
 Next navigate to the cloned repository on your local system using cmd or git bash
 
